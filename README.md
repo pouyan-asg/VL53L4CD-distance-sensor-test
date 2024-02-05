@@ -17,3 +17,7 @@ Following tests are conducted in this document:
 4. Min and max effective range
 5. Effect of the color on measurements
 6. Effect of material on measurement
+
+![setup1](setup1.png)
+
+![VL53L4CD ToF sensor](setup2.png)
